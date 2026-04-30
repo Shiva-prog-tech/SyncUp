@@ -1,7 +1,5 @@
 # SyncUp
 This Social Networking Application
-# SyncUp — Networking Platform
-
 Full-stack professional networking app with real-time messaging, built with:
 
 **Frontend:** React + TypeScript + Vite + Tailwind CSS + Socket.IO Client  
